@@ -14,11 +14,11 @@ Telegram-бот для онлайн-записи клиентов на услу�
 
 
 ## 🛠️ Технологии
-Python 3.12
-pyTelegramBotAPI
-PostgreSQL 15
-Docker + Docker Compose
-python-dotenv для конфигурации
+- Python 3.12
+- pyTelegramBotAPI
+- PostgreSQL 15
+- Docker + Docker Compose
+- python-dotenv для конфигурации
 ## 📂 Структура проекта
 ```
 bot_zapys/
@@ -146,3 +146,4 @@ docker-compose logs -f bot
 ```
 ## 📜 Лицензия
 MIT — используй, дорабатывай и развивай проект!
+
